@@ -1,0 +1,18 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+@import "tailwindcss";
+/* @import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap'); */
+
+
+/* Apply font globally */
+body {
+    font-family: "Saira", sans-serif;
+}
+
+@theme{
+    --color-primary:#a337f0 ;
+    --color-dark: #1f2937;
+}
+/* #6366f1 */
